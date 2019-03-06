@@ -1,0 +1,14 @@
+{
+"companyName": "DefaultCompany",
+"productName": "Cafe_JKLU",
+"dataUrl": "cafe_game.data.unityweb",
+"asmCodeUrl": "cafe_game.asm.code.unityweb",
+"asmMemoryUrl": "cafe_game.asm.memory.unityweb",
+"asmFrameworkUrl": "cafe_game.asm.framework.unityweb",
+"TOTAL_MEMORY": 1073741824,
+"graphicsAPI": ["WebGL 2.0", "WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20",
+"cacheControl": {"default": "must-revalidate"}
+}
